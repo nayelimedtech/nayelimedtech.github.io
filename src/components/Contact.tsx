@@ -83,7 +83,7 @@ const Contact: React.FC = () => {
 
   const openWhatsApp = () => {
     const message = `Hi Nayeli Medtech team! I'm interested in learning more about your healthcare platform. I represent: ${formData.userType || 'healthcare organization'}`;
-    const whatsappUrl = `https://wa.me/919999999999?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/919611373526?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
   };
 

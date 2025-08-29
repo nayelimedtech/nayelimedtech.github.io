@@ -142,7 +142,7 @@ Replace `GA_MEASUREMENT_ID` in `public/index.html` with your actual Google Analy
 ### WhatsApp Integration
 Update the phone number in `Contact.tsx`:
 ```typescript
-const whatsappUrl = `https://wa.me/919999999999?text=${encodeURIComponent(message)}`;
+const whatsappUrl = `https://wa.me/919611373526?text=Hello,%20I%20am%20interested%20in%20your%20product%20Nayeli%20Medtech.%20I%20would%20like%20to%20learn%20more%20about%20your%20platform.%20Thank%20you.` 
 ```
 
 ### Contact Information
