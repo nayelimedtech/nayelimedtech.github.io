@@ -225,7 +225,7 @@ const Contact: React.FC = () => {
                   WhatsApp Chat
                 </button>
                 <a
-                  href="mailto:contact@nayelimedtech.com?subject=Healthcare Platform Inquiry&body=Hi Nayeli Medtech team, I'm interested in learning more about your platform."
+                  href="mailto:amarnath@greyquill.io?subject=Healthcare Platform Inquiry&body=Hi Nayeli Medtech team, I'm interested in learning more about your platform."
                   className="bg-white/20 hover:bg-white/30 text-white px-4 py-2 rounded-lg font-semibold transition-colors flex items-center justify-center"
                 >
                   <Mail className="w-4 h-4 mr-2" />
