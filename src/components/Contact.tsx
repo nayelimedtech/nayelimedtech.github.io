@@ -147,7 +147,7 @@ const Contact: React.FC = () => {
           </div>
           <h2 className="font-heading font-bold text-3xl md:text-4xl lg:text-5xl text-gray-900 mb-6">
             Get in{' '}
-            <span className="text-[#1269CC]">
+            <span className="text-primary-600">
               Touch
             </span>
           </h2>
@@ -214,7 +214,7 @@ const Contact: React.FC = () => {
             </div>
 
             {/* Quick Contact Options */}
-            <div className="bg-[#1269CC] rounded-2xl p-6 text-white">
+            <div className="bg-primary-600 rounded-2xl p-6 text-white">
               <h4 className="font-bold text-lg mb-4">Prefer Instant Communication?</h4>
               <div className="flex flex-col sm:flex-row gap-3">
                 <button
