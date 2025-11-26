@@ -45,7 +45,7 @@ We are currently in the validation phase, gathering feedback from forward-thinki
 
 If you believe that healthcare deserves a modern operating system, we want to hear from you.
 
-[**Visit our Website**](https://nayelimedtech.github.io) to learn more and join our waitlist.
+[**Visit our Website**](https://nayeli.in) to learn more and join our waitlist.
 
 ---
 
