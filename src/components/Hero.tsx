@@ -32,7 +32,7 @@ const Hero: React.FC = () => {
             {/* Main Headline */}
             <h1 className="font-heading font-bold text-4xl md:text-5xl lg:text-6xl text-gray-900 leading-tight mb-6">
               Modern Medical Technology for{' '}
-              <span className="bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent">
+              <span className="text-[#3b82f6]">
                 Everyone
               </span>
             </h1>

@@ -39,7 +39,7 @@ const Footer: React.FC = () => {
           {/* Company Info */}
           <div className="lg:col-span-1">
             <div className="flex items-center space-x-2 mb-6">
-              <div className="w-10 h-10 bg-gradient-to-br from-primary-600 to-secondary-600 rounded-lg flex items-center justify-center">
+              <div className="w-10 h-10 bg-[#3b82f680] rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-xl">N</span>
               </div>
               <div className="flex flex-col">
@@ -55,7 +55,7 @@ const Footer: React.FC = () => {
               Transforming healthcare for 1.4 billion Indians through innovative technology
               and Aadhaar-integrated solutions.
             </p>
-                        <div className="flex space-x-4">
+            <div className="flex space-x-4">
               <button
                 onClick={() => window.open('https://linkedin.com/company/nayelimedtech', '_blank')}
                 className="w-10 h-10 bg-gray-800 rounded-lg flex items-center justify-center hover:bg-primary-600 transition-colors"
@@ -83,7 +83,7 @@ const Footer: React.FC = () => {
           {/* Platform Links */}
           <div>
             <h3 className="font-heading font-bold text-lg mb-6">Platform</h3>
-                        <ul className="space-y-3">
+            <ul className="space-y-3">
               {footerLinks.platform.map((link, index) => (
                 <li key={index}>
                   <button

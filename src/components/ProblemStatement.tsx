@@ -88,7 +88,7 @@ const ProblemStatement: React.FC = () => {
         </div>
 
         {/* Key Statistics */}
-        <div className="bg-gradient-to-r from-primary-600 to-secondary-600 rounded-3xl p-8 md:p-12 text-white">
+        <div className="bg-[#3b82f680] rounded-3xl p-8 md:p-12 text-white">
           <div className="text-center mb-8">
             <h3 className="font-heading font-bold text-2xl md:text-3xl mb-4">
               The Scale of the Challenge
@@ -120,7 +120,7 @@ const ProblemStatement: React.FC = () => {
 
         {/* Solution Teaser */}
         <div className="text-center mt-16">
-          <div className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-primary-600 to-secondary-600 text-white rounded-full text-lg font-semibold mb-6">
+          <div className="inline-flex items-center px-6 py-3 bg-[#3b82f680] text-white rounded-full text-lg font-semibold mb-6">
             <span>But there's hope...</span>
           </div>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">

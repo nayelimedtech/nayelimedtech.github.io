@@ -76,7 +76,7 @@ const Platform: React.FC = () => {
           </div>
           <h2 className="font-heading font-bold text-3xl md:text-4xl lg:text-5xl text-gray-900 mb-6">
             One Platform for{' '}
-            <span className="bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent">
+            <span className="text-[#3b82f6]">
               Everyone
             </span>
           </h2>

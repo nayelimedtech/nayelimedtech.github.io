@@ -33,7 +33,7 @@ const Vision: React.FC = () => {
 
             <h2 className="font-heading font-bold text-3xl md:text-4xl lg:text-5xl text-gray-900 mb-6">
               Transforming{' '}
-              <span className="bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent">
+              <span className="text-[#3b82f6]">
                 1.4 Billion Lives
               </span>
             </h2>
@@ -122,7 +122,7 @@ const Vision: React.FC = () => {
                   {/* Central Hub */}
                   <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
                     <div className="w-16 h-16 bg-white rounded-full shadow-lg flex items-center justify-center">
-                      <div className="w-8 h-8 bg-gradient-to-br from-primary-600 to-secondary-600 rounded-full flex items-center justify-center">
+                      <div className="w-8 h-8 bg-[#3b82f680] rounded-full flex items-center justify-center">
                         <span className="text-white font-bold text-sm">N</span>
                       </div>
                     </div>
@@ -154,7 +154,7 @@ const Vision: React.FC = () => {
 
         {/* Mission Statement */}
         <div className="mt-20 text-center">
-          <div className="bg-gradient-to-r from-primary-600 to-secondary-600 rounded-3xl p-8 md:p-12 text-white">
+          <div className="bg-[#3b82f680] rounded-3xl p-8 md:p-12 text-white">
             <h3 className="font-heading font-bold text-2xl md:text-3xl mb-6">
               Our Mission
             </h3>

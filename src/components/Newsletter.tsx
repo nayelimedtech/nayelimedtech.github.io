@@ -34,7 +34,7 @@ const Newsletter: React.FC = () => {
 
   if (isSubscribed) {
     return (
-      <section className="section-padding bg-gradient-to-r from-primary-600 to-secondary-600">
+      <section className="section-padding bg-[#3b82f680]">
         <div className="container-custom">
           <div className="max-w-2xl mx-auto text-center text-white">
             <div className="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-6">
@@ -57,7 +57,7 @@ const Newsletter: React.FC = () => {
   }
 
   return (
-    <section className="section-padding bg-gradient-to-r from-primary-600 to-secondary-600">
+    <section className="section-padding bg-[#3b82f680]">
       <div className="container-custom">
         <div className="max-w-4xl mx-auto text-center text-white">
           {/* Header */}

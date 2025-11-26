@@ -33,7 +33,7 @@ const MarketData: React.FC = () => {
     }
   ];
 
-      const opportunityAreas = [
+  const opportunityAreas = [
     {
       title: "Digital Health Adoption (Professionals)",
       current: "76%",
@@ -166,7 +166,7 @@ const MarketData: React.FC = () => {
                 <p className="text-gray-600 text-sm mb-4">{area.description}</p>
 
                 {/* Progress Bar */}
-                                                <div className="space-y-3">
+                <div className="space-y-3">
                   <div className="flex justify-between text-sm">
                     <span className="text-gray-500">Current</span>
                     <span className="font-semibold text-blue-600">{area.current}</span>
@@ -206,7 +206,7 @@ const MarketData: React.FC = () => {
             <h3 className="font-heading font-bold text-2xl md:text-3xl text-gray-900 mb-6">
               Key Market Trends Driving Growth
             </h3>
-                        <p className="text-gray-600 mb-8 leading-relaxed">
+            <p className="text-gray-600 mb-8 leading-relaxed">
               Rural healthcare access is rapidly expanding through government initiatives like Ayushman Arogya Mandirs and eSanjeevani,
               with over 178,000 operational centers and 131,000+ telemedicine-enabled facilities nationwide.
             </p>
@@ -232,7 +232,7 @@ const MarketData: React.FC = () => {
 
           <div className="relative">
             <div className="bg-gradient-to-br from-primary-100 to-secondary-100 rounded-3xl p-8 shadow-lg">
-                            <h4 className="font-bold text-xl text-gray-900 mb-6 text-center">
+              <h4 className="font-bold text-xl text-gray-900 mb-6 text-center">
                 Healthcare Market & Investment Flow
               </h4>
               <p className="text-gray-600 text-sm text-center mb-4">
@@ -262,8 +262,8 @@ const MarketData: React.FC = () => {
           </div>
         </div>
 
-                {/* Competitive Advantage */}
-        <div className="bg-gradient-to-r from-primary-600 to-secondary-600 rounded-3xl p-8 md:p-12 text-white mb-16">
+        {/* Competitive Advantage */}
+        <div className="bg-[#3b82f680] rounded-3xl p-8 md:p-12 text-white mb-16">
           <div className="text-center">
             <h3 className="font-heading font-bold text-2xl md:text-3xl mb-6">
               Our Competitive Advantage
