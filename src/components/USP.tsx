@@ -79,7 +79,7 @@ const USP: React.FC = () => {
           </div>
           <h2 className="font-heading font-bold text-3xl md:text-4xl lg:text-5xl text-gray-900 mb-6">
             Why Choose{' '}
-            <span className="text-[#3b82f6]">
+            <span className="text-[#1269CC]">
               Nayeli Medtech?
             </span>
           </h2>
@@ -144,7 +144,7 @@ const USP: React.FC = () => {
         </div>
 
         {/* Comparison Section */}
-        <div className="bg-[#3b82f680] rounded-3xl p-8 md:p-12 text-white">
+        <div className="bg-[#1269CC] rounded-3xl p-8 md:p-12 text-white">
           <div className="text-center mb-12">
             <h3 className="font-heading font-bold text-2xl md:text-3xl mb-4">
               Traditional Healthcare vs. Nayeli Medtech

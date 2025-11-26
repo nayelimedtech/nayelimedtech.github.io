@@ -263,7 +263,7 @@ const MarketData: React.FC = () => {
         </div>
 
         {/* Competitive Advantage */}
-        <div className="bg-[#3b82f680] rounded-3xl p-8 md:p-12 text-white mb-16">
+        <div className="bg-[#1269CC] rounded-3xl p-8 md:p-12 text-white mb-16">
           <div className="text-center">
             <h3 className="font-heading font-bold text-2xl md:text-3xl mb-6">
               Our Competitive Advantage

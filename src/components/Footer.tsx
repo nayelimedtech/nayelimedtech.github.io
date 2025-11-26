@@ -39,7 +39,7 @@ const Footer: React.FC = () => {
           {/* Company Info */}
           <div className="lg:col-span-1">
             <div className="flex items-center space-x-2 mb-6">
-              <div className="w-10 h-10 bg-[#3b82f680] rounded-lg flex items-center justify-center">
+              <div className="w-10 h-10 bg-[#1269CC] rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-xl">N</span>
               </div>
               <div className="flex flex-col">
